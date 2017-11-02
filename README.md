@@ -14,7 +14,7 @@ Installation
 -------
 
     cd /var/www/test/
-    git clone https://github.com/cash168/test.git
+    git clone https://github.com/cash168/test-work.git
 
 Configure
 -------
