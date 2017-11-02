@@ -5,7 +5,9 @@ TEST WORK
 **Example:**
 
 www home dir: **/var/www/test/public**
+
 core dir: **/var/www/test/core**
+
 Base URL: **http://localhost/test/**
 
 Installation
