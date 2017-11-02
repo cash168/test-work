@@ -13,8 +13,11 @@ Base URL: **http://localhost/test/**
 Installation
 -------
 
-    cd /var/www/test/
     git clone https://github.com/cash168/test-work.git
+    cd test-work/
+    cp -r core/ /var/www/test/
+    cp -r public/ /var/www/test/
+    cd /var/www/test/
 
 Configure
 -------
